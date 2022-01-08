@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637855955 source:c:\users\jokûbas\desktop\papildomi\eile_generic\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
